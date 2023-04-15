@@ -1,6 +1,6 @@
 # Competitive Programming For Beginners
 
-Welcome! This is a site maintained by [Nitya](https://github.com/nitya) (tech professional) and [AJ](https://github.com/ajcreates) (high-school student) to document our learning journey into _competitive programming_ (CP) - with an initial focus on the [USA Computing Olympiad (USACO)](http://www.usaco.org/index.php) competition.
+Welcome! This is a site maintained by [Nitya](https://github.com/nitya) (tech professional) and [AJ](https://github.com/ajcreates) (high-school student) to document our learning journey into _competitive programming_ (CP) - with an initial focus on the [USA Computing Olympiad (USACO)](http://www.usaco.org/index.php) competition. Hello world!
 
 ---
 
