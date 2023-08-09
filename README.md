@@ -31,7 +31,32 @@ Code needs to optimize for _running time_ and _code size_, which can create adde
 
 An additional incentive for _Java_ is that it is seen as a valued skill for professional developers in enterprise and consumer domains.
 
-> Decision: We'll be using Java.
+> Decision: We'll be using Python.
+
+---
+
+## Format
+
+USACO competitions are separated across the Bronze, Silver, and Gold levels, each more difficult than the last. The competitions generally share a consistant format to be followed by all competitors, described in the [USACO Contest Instructions and Rules](http://www.usaco.org/index.php?page=instructions#:~:text=Contest%20Instructions%20and%20Rules%201%20Eligibility%20and%20Participation,...%206%20Clarifications%2C%20Contacting%20the%20Contest%20Organizers%20). 
+
+Problems: 3 to 4, often algorithmic but with straightforward demands
+Competition Time Limit: 3.5 contiguous hours within the testing window
+Run Time Limit: 2 seconds per input case for C an C++ and 4 seconds for Python and Java
+Scoring: Points awards based on the number of test cases your program solves, with submissions marked correct or incorrect
+Feedback: Correct responses recieve a green check while incorrect ones return a red one. Further feedback is given for incorrect responses, whch may recieve a **T**(Time Limit Exceeded), **X**(Incorrect Answer), **!**(Run Time Error or Memory Limit Exceeded), **E**(Empty Output File), or **M**(Missing Output File)
+
+---
+
+## Technical Details
+
+USACO provides tips in order to avoid common errors leading to incorrect solutions:
+
+- Solutions must be deterministic in nature(i.e. identical inputs should return identical outputs)
+- Solutions consisting of essentially print statements used to reverse-engineer input cases will be disqualified
+- Input and output files are case-sensitive 
+- Only final submissions will be graded
+- It is not guaranteed that all legal datasets used as input cases will be solvable in the time limit
+- Several versions of the coding language are available, select the right one
 
 ---
 
